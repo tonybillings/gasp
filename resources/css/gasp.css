@@ -1,0 +1,74 @@
+.gform {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+}
+
+.gtable {
+    width: 100%;
+    padding: 10px;
+}
+
+.gtabledata {
+    padding: 15px;
+    vertical-align: top;
+}
+
+.gbutton {
+    width: 100%;
+    background-color: #747491;
+    color: white;
+    font-weight: bold;
+    padding: 10px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.gbutton:hover {
+    background-color: #9c9cbc;
+}
+
+.glabel {
+    color: #554c64;
+}
+
+.gtextbox {
+    color: #505b7e;
+    width: 100%;
+    font-size: 1em;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.gdropdown {
+    color: #505b7e;
+    width: 100%;
+    font-size: 1em;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.gcheckbox {
+
+}
+
+.glinechart {
+    display: block;
+}
+
+.gpacketinspector {
+    display: block;
+    overflow-x: scroll;
+}
